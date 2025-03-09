@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fls:FlsSicof_3 xmlns:fls="http://flussi.mds.it/FlsSicof_3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://flussi.mds.it/FlsSicof_3 SICOF_PREGRP.XSD">
+	<fls: Iniziativa Incontro IdIncontro="9999999" IdIniziativa="9999999" MandatoGdz="1" DataIncontro="01-01-1900-01-01">
+		<fls:Trasmissione Tipo="I"/>
+		<fls:Erogazione>
+			<fls:CodRegioneErg>010</fls:CodRegioneErg>
+			<fls:CodASLErg>000</fls:CodASLErg>
+			<fls:CodConsultorio>aaaaaa</fls:CodConsultorio>
+		</fls:Erogazione>
+		<fls:Prestazione AreaAttivita="a" SottoAreaAttivita="9999" TipoPrestazione="999" NumeroIncontriPrevisti="99" DataInizioIniziativa="01-01-1900-01-01" DataPresuntaFineIniziativa="01-01-1900-01-01" NumUtentiCoinvolti="999" NumUtentiStranieri="999" NumUtentiMinorenni="999" NumUtentiMaschi="999" NumUtentiFemmine="999" SedePrestazione="1" MediazioneCulturale="1" PrestazioneMultiProfessionale="1" PersonaleCoinvolto_1="1" PersonaleCoinvolto_2="1" PersonaleCoinvolto_3="1" PersonaleCoinvolto_4="1" TerziCoinvolti_1="1" TerziCoinvolti_2="1" TerziCoinvolti_3="1"/>
+		<fls:Prestazione AreaAttivita="a" SottoAreaAttivita="9999" TipoPrestazione="999" NumeroIncontriPrevisti="99" DataInizioIniziativa="01-01-1900-01-01" DataPresuntaFineIniziativa="01-01-1900-01-01" NumUtentiCoinvolti="999" NumUtentiStranieri="999" NumUtentiMinorenni="999" NumUtentiMaschi="999" NumUtentiFemmine="999" SedePrestazione="1" MediazioneCulturale="1" PrestazioneMultiProfessionale="1" PersonaleCoinvolto_1="1" PersonaleCoinvolto_2="1" PersonaleCoinvolto_3="9" PersonaleCoinvolto_4="1" TerziCoinvolti_1="9" TerziCoinvolti_2="99" TerziCoinvolti_3="1"/>
+	</fls:>
+</fls:FlsSicof_3>
