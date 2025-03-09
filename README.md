@@ -418,7 +418,7 @@ Il comando farà partire il software che rimarrà in attesa di richieste sulla p
 
 #### Avvio validazione di un csv
 ```
-curl --location --request POST 'http://localhost:8080/v1/flusso/SIAR_OREPROF' \
+curl --location --request POST 'http://localhost:8080/v1/flusso/SICOF_PRESTGRUP' \
 --header 'Content-Type: application/json' \
 --header 'Accept: */*' \
 --data-raw '{
@@ -433,7 +433,7 @@ curl --location --request POST 'http://localhost:8080/v1/flusso/SIAR_OREPROF' \
 
 #### Recupero dell'esito di un'elaborazione
 ```
-curl --location --request GET 'http://localhost:8080/v1/flusso/SIAR_OREPROF/info?idRun=34' --header 'Accept: */*'
+curl --location --request GET 'http://localhost:8080/v1/flusso/SICOF_PRESTGRUP/info?idRun=34' --header 'Accept: */*'
 ```
 
 ### Detentori di copyright
