@@ -1,8 +1,8 @@
 publiccodeYmlVersion: "0.4"
-name: sdk-engine-sicofprestgrup-java
+name: SDK Flusso Consultori familiari - Engine Prestazione grande gruppo
 applicationSuite: SDK
 url: https://github.com/ministero-salute/sdk-engine-sicofprestgrup-java
-landingURL: https://github.com/ministero-salute/sdk-engine-sicofprestgrup-java
+landingURL: https://github.com/ministero-salute/sdk-engine-sicofprestgrup-java?tab=readme-ov-file#readme
 softwareVersion: 1.0.0-SNAPSHOT
 releaseDate: 2025-03-09
 platforms:
@@ -14,20 +14,19 @@ categories:
 usedBy:
   - Regioni
 developmentStatus: stable
-softwareType: standalone/web
+softwareType: standalone/backend
 description:
   it:
-    localisedName: sdk-engine-sicofprestgrup-java
-    shortDescription: SDK - Sistema informativo Consultori Familiari Prestazioni
-      grandi gruppi e salute di Comunità
-    longDescription: Il microservizio ha come scopo l’acquisizione dei dati inviati
-      dalle Regioni in merito alle prestazioni consultoriali previste dall’articolo
-      24 «Assistenza sociosanitaria ai minori, alle donne, alle coppie, alle
-      famiglie» DPCM 12 gennaio 2017 (Nuovi LEA).
+    localisedName: SDK Flusso Consultori familiari - Engine Prestazione grande gruppo
+    shortDescription: SDK - Sistema informativo Consultori Familiari Prestazioni grandi gruppi e salute di Comunità
+    longDescription: L'SDK ha come scopo la predisposizione del dataset e l’invio in merito ai dati di prestazioni consultoriali per grandi gruppi previste dall’articolo 24 «Assistenza sociosanitaria ai minori, alle donne, alle coppie, alle famiglie» DPCM 12 gennaio 2017 (Nuovi LEA).
     documentation: https://github.com/ministero-salute/sdk-engine-sicofprestgrup-java
     features:
       - Verifica Dati
       - Invio Dati
+it:
+  countryExtensionVersion: "1.0"
+  riuso: m_sa
 legal:
   license: BSD-3-Clause
 maintenance:
